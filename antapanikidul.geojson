@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Jalan Semarang",
+        "length_km": 1.4,
+        "type": "asphalt"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.66175435751235,
+            -6.9225815921085605
+          ],
+          [
+            107.662731889276,
+            -6.922373197473344
+          ],
+          [
+            107.66363522561052,
+            -6.921970485001429
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Jalan Samarinda",
+        "length_km": 0.7,
+        "type": "paved"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.66171956908474,
+            -6.92329066855649
+          ],
+          [
+            107.66259611443103,
+            -6.923288269217702
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Jalan Denpasar",
+        "length_km": 0.9,
+        "type": "dirt"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.66083105878347,
+            -6.923725659302147
+          ],
+          [
+            107.66156242301344,
+            -6.923768313534604
+          ],
+          [
+            107.66228852707933,
+            -6.923813268555388
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
